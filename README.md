@@ -22,3 +22,7 @@ Create a Simple Database App: Connecting to MySQL with PHP
 ## License
 
 The code is open source and available under the [MIT License](LICENSE).
+
+# NOTE
+
+Note that this project was cloned from the above author and used in another project involving CI/CD with AWS tools. 
